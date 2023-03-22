@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rebornals</h1>
-<h3 align="center">A student</h3>
+<h3 align="center">An Electronic Science and Technology student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebornals&label=Profile%20views&color=0e75b6&style=flat" alt="rebornals" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RISC-V**
 
-- 📝 I regularly write articles on [www.lazyreborn.site](www.lazyreborn.site)
+- 📝 I regularly write articles on <a href="https://www.lazyreborn.site">www.lazyreborn.site</a>
 
 - 💬 Ask me about **Python, C++ and Verilog**
 
