@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **RISC-V**
 
+- 🔖 I’m currently reading *In Search of Lost Time*
+
 - 📝 I regularly write articles on <a href="https://www.lazyreborn.site">www.lazyreborn.site</a>
 
-- 💬 Ask me about **Python, C++ and Verilog**
+- 💬 Ask me about **Simple addition**
 
 - 📫 How to reach me **blog@lazyreborn.site**
 
