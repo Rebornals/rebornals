@@ -3,17 +3,19 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebornals&label=Profile%20views&color=0e75b6&style=flat" alt="rebornals" /> </p>
 
-- 🔭 I’m currently studying on **Southeast University**
+- 🔭 I earned my B.E. in Electronic Science and Technology from Southeast University and am currently pursuing my M.S. in Integrated Circuit Engineering there.
 
-- 🌱 I’m currently learning how to sleep 
+- 🌱 I'm interested in digital accelerator design for both large language models and diffusion models.
 
 - 🔖 I’m currently reading *In Search of Lost Time*
 
+- 📺 I'm currently watching *the show Stranger Things*.
+
 - 📝 I regularly write articles on <a href="https://www.lazyreborn.site">www.lazyreborn.site</a>
 
-- 💬 Ask me about **Simple addition**
+- 💬 Ask me about anything.
 
-- 📫 How to reach me **blog@lazyreborn.site**
+- 📫 How to reach me **lazyreborn@outlook.com**
 
 - 📄 Know about my experiences [None](None)
 
