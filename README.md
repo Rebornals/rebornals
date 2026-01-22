@@ -9,7 +9,7 @@
 
 - 🔖 I’m currently reading *In Search of Lost Time*
 
-- 📺 I'm currently watching *the show Stranger Things*.
+- 📺 I'm currently watching *the Stranger Things*.
 
 - 📝 I regularly write articles on <a href="https://www.lazyreborn.site">www.lazyreborn.site</a>
 
