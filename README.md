@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reborn</h1>
-<h3 align="center">An Electronic Science and Technology student</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A student in Digital Integrated Circuits</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rebornals&label=Profile%20views&color=0e75b6&style=flat" alt="rebornals" /> </p>
 
